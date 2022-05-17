@@ -58,7 +58,7 @@ class SemanticSearch:
 
     def set_attributes(self, attr_dict):
         if attr_dict["n_components"] == 0:
-            self.n_components = None
+            self.n_components = len(self.corpus)
         else:
             self.n_components = attr_dict["n_components"]
         self.distance_type = attr_dict["distance"]
