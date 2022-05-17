@@ -57,13 +57,13 @@ class SemanticSearch:
         return self.decomposer.transform(question_vector)
 
     def set_attributes(self, attr_dict):
-        self.distance_type = attr_dict["distance"]
-        self.vectorizer = self.set_vectorizer(attr_dict["vectorizer"])
-        self.decomposer = self.set_decomposer(attr_dict["decomposer"])
         if attr_dict["n_components"] == 0:
             self.n_components = None
         else:
             self.n_components = attr_dict["n_components"]
+        self.distance_type = attr_dict["distance"]
+        self.vectorizer = self.set_vectorizer(attr_dict["vectorizer"])
+        self.decomposer = self.set_decomposer(attr_dict["decomposer"])
 
     def search(self, question, n_articles) -> list:
         transformed_question = self.transform_question(question)
