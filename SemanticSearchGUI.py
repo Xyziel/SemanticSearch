@@ -15,7 +15,8 @@ class SemanticSearchGUI:
                      "distance": dpg.get_value("distance").lower(),
                      "vectorizer": dpg.get_value("vectorizer").lower(),
                      "decomposer": dpg.get_value("decomposer").lower(),
-                     "n_components": dpg.get_value("n_components")}
+                     "n_components": dpg.get_value("n_components"),
+                     "normalization": dpg.get_value("normalization")}
         return user_data
 
     def open_wiki_link(self, sender, app_data, url):
@@ -28,9 +29,13 @@ class SemanticSearchGUI:
     def refresh_output(self):
         dpg.delete_item("outputs", children_only=True)
 
+    def get_explained_variance_text(self, explained_variance):
+        if explained_variance == -1:
+            return "Explained variance not available for this decomposer"
+        return f"Explained variance: {explained_variance}"
+
     def search(self):
         self.refresh_output()
-
         user_data = self.get_user_data()
         n_articles = dpg.get_value("n_articles")
 
@@ -40,15 +45,22 @@ class SemanticSearchGUI:
         for index, response in enumerate(responses):
             self.add_text_and_href(response, index+1)
 
+        explained_variance = round(self.engine.get_explained_variance(), 4)
+        explained_variance_text = self.get_explained_variance_text(explained_variance)
+        dpg.set_value("explained_variance", explained_variance_text)
+
     def run(self):
         window_width = 400
         window_height = 600
+
+        corpus_length = len(self.engine.corpus)
 
         dpg.create_context()
         dpg.create_viewport(title='Semantic Search Engine (IT area)', width=2*window_width, height=window_height)
 
         with dpg.font_registry():
             default_font = dpg.add_font("fonts/coolvetica rg.otf", 20)
+            smaller_font = dpg.add_font("fonts/coolvetica rg.otf", 14)
 
         with dpg.window(label="Input", width=window_width, height=window_height, no_resize=True, no_title_bar=True, no_move=True, pos=(0,0)):
             dpg.bind_font(default_font)
@@ -62,10 +74,12 @@ class SemanticSearchGUI:
             dpg.add_text("Vectorizer type:")
             dpg.add_combo(self.vectorizers, default_value="Tfidf", tag="vectorizer", width=int(0.85*window_width))
             dpg.add_text("Decomposer type:")
-            dpg.add_combo(self.decomposers, default_value="PCA", tag="decomposer", width=int(0.85*window_width))
-            dpg.add_text("Number of components (if 0 then default None):")
-            dpg.add_slider_int(default_value=5, max_value=30, min_value=0, tag="n_components", width=int(0.85*window_width))
-            dpg.add_text("")
+            with dpg.group(horizontal=True):
+                dpg.add_combo(self.decomposers, default_value="PCA", tag="decomposer", width=int(0.50*window_width))
+                dpg.add_checkbox(label="Normalization", tag="normalization")
+            dpg.add_text("Number of components:")
+            dpg.add_input_int(default_value=5, max_value=corpus_length, min_value=1, tag="n_components", width=int(0.85*window_width), min_clamped=True, max_clamped=True)
+            dpg.add_text("", tag="explained_variance", color=(222, 212, 193))
             dpg.add_text("Number of proposed articles:")
             dpg.add_slider_int(default_value=3, min_value=1, max_value=10, tag="n_articles", width=int(0.85*window_width))
             dpg.add_text("")
@@ -75,6 +89,7 @@ class SemanticSearchGUI:
             with dpg.group(tag="outputs"):
                 pass
 
+        dpg.bind_item_font("explained_variance", smaller_font)
         dpg.setup_dearpygui()
         dpg.show_viewport()
         dpg.start_dearpygui()
