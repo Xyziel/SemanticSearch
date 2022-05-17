@@ -79,7 +79,7 @@ class SemanticSearch:
         return self.decomposer.explained_variance_ratio_.sum()
 
     def search(self, question, n_articles) -> list:
-        transformed_question = self.transform_question(question)
+        transformed_question = self.transform_question(question.lower())
         distances = self.get_distances(self.model, transformed_question)
         best_indexes = self.get_n_min_indexes(distances, n_articles)
         responses = []
