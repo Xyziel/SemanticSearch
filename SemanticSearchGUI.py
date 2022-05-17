@@ -1,7 +1,6 @@
 import dearpygui.dearpygui as dpg
 import webbrowser
 
-
 class SemanticSearchGUI:
 
     def __init__(self, distances: list, vectorizers: list, decomposers: list, engine):
@@ -26,6 +25,10 @@ class SemanticSearchGUI:
         dpg.add_text(response[0], pos=(22, index*60), parent="outputs", color=(255, 150, 50))
         dpg.add_button(label=response[1], pos=(20, 25+index*60), height=27, parent="outputs", callback=self.open_wiki_link, user_data=response[1])
 
+    def add_loading(self):
+        dpg.add_text("Processing...", parent="outputs", pos=(150, 60))
+        dpg.add_loading_indicator(parent="outputs", pos=(160, 90))
+
     def refresh_output(self):
         dpg.delete_item("outputs", children_only=True)
 
@@ -36,17 +39,19 @@ class SemanticSearchGUI:
 
     def search(self):
         self.refresh_output()
+        self.add_loading()
         user_data = self.get_user_data()
         n_articles = dpg.get_value("n_articles")
 
         self.engine.set_attributes(user_data)
         self.engine.model = self.engine.prepare_model()
         responses = self.engine.search(user_data["question"], n_articles)
+        self.refresh_output()
         for index, response in enumerate(responses):
             self.add_text_and_href(response, index+1)
-
         explained_variance = round(self.engine.get_explained_variance(), 4)
         explained_variance_text = self.get_explained_variance_text(explained_variance)
+
         dpg.set_value("explained_variance", explained_variance_text)
 
     def run(self):
@@ -62,7 +67,7 @@ class SemanticSearchGUI:
             default_font = dpg.add_font("fonts/coolvetica rg.otf", 20)
             smaller_font = dpg.add_font("fonts/coolvetica rg.otf", 14)
 
-        with dpg.window(label="Input", width=window_width, height=window_height, no_resize=True, no_title_bar=True, no_move=True, pos=(0,0)):
+        with dpg.window(label="Input", tag="main_window", width=window_width, height=window_height, no_resize=True, no_title_bar=True, no_move=True, pos=(0,0)):
             dpg.bind_font(default_font)
             dpg.add_text("Welcome, please type your question down below:")
             dpg.add_text("")
