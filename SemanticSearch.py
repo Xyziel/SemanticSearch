@@ -2,10 +2,11 @@ import numpy as np
 from sklearn.metrics import pairwise_distances
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.decomposition import TruncatedSVD, PCA, LatentDirichletAllocation
+from sklearn.preprocessing import MinMaxScaler
 
 
 class SemanticSearch:
-    def __init__(self, corpus: list, urls: list, topics: list, distance_type="l2", vectorizer="tfidf", decomposer="pca", n_components=5):
+    def __init__(self, corpus: list, urls: list, topics: list, distance_type="l2", vectorizer="tfidf", decomposer="pca", n_components=5, normalization=False):
         if len(urls) == 0 or len(urls) != len(corpus):
             print("Error: wrong size of urls array")
             exit(-1)
@@ -18,7 +19,9 @@ class SemanticSearch:
         self.corpus = corpus
         self.urls = urls
         self.topics = topics
+        self.scaler = MinMaxScaler()
         self.n_components = n_components
+        self.normalization = normalization
         self.distance_type = distance_type
         self.vectorizer = self.set_vectorizer(vectorizer)
         self.decomposer = self.set_decomposer(decomposer)
@@ -42,6 +45,8 @@ class SemanticSearch:
 
     def prepare_model(self):
         corpus_vectorized = self.vectorizer.fit_transform(self.corpus).toarray()
+        if self.normalization:
+            corpus_vectorized = self.scaler.fit_transform(corpus_vectorized)
         return self.decomposer.fit_transform(corpus_vectorized)
 
     def get_distances(self, X: list, y: list) -> list:
@@ -54,9 +59,12 @@ class SemanticSearch:
 
     def transform_question(self, question):
         question_vector = self.vectorizer.transform([question]).toarray()
+        if self.normalization:
+            question_vector = self.scaler.transform(question_vector)
         return self.decomposer.transform(question_vector)
 
     def set_attributes(self, attr_dict):
+        self.normalization = attr_dict["normalization"]
         if attr_dict["n_components"] == 0:
             self.n_components = len(self.corpus)
         else:
@@ -64,6 +72,11 @@ class SemanticSearch:
         self.distance_type = attr_dict["distance"]
         self.vectorizer = self.set_vectorizer(attr_dict["vectorizer"])
         self.decomposer = self.set_decomposer(attr_dict["decomposer"])
+
+    def get_explained_variance(self):
+        if isinstance(self.decomposer, LatentDirichletAllocation):
+            return -1
+        return self.decomposer.explained_variance_ratio_.sum()
 
     def search(self, question, n_articles) -> list:
         transformed_question = self.transform_question(question)
