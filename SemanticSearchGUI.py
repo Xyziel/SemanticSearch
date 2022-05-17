@@ -43,7 +43,7 @@ class SemanticSearchGUI:
         window_height = 600
 
         dpg.create_context()
-        dpg.create_viewport(title='Semantic Search Engine', width=2*window_width, height=window_height)
+        dpg.create_viewport(title='Semantic Search Engine (IT area)', width=2*window_width, height=window_height)
 
         with dpg.font_registry():
             default_font = dpg.add_font("fonts/coolvetica rg.otf", 20)
