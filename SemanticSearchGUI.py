@@ -18,10 +18,10 @@ class SemanticSearchGUI:
                      "n_components": dpg.get_value("n_components")}
         return user_data
 
-    def open_wiki_link(self, sender, app_data, user_data):
-        webbrowser.open_new_tab(user_data)
+    def open_wiki_link(self, sender, app_data, url):
+        webbrowser.open_new_tab(url)
 
-    def add_text_and_href(self, response, index):
+    def add_text_and_href(self, response: list, index: int):
         dpg.add_text(response[0], pos=(22, index*60), parent="outputs", color=(255, 150, 50))
         dpg.add_button(label=response[1], pos=(20, 25+index*60), height=27, parent="outputs", callback=self.open_wiki_link, user_data=response[1])
 
@@ -30,8 +30,10 @@ class SemanticSearchGUI:
 
     def search(self):
         self.refresh_output()
+
         user_data = self.get_user_data()
         n_articles = dpg.get_value("n_articles")
+
         self.engine.set_attributes(user_data)
         self.engine.model = self.engine.prepare_model()
         responses = self.engine.search(user_data["question"], n_articles)
@@ -68,7 +70,7 @@ class SemanticSearchGUI:
             dpg.add_slider_int(default_value=3, min_value=1, max_value=10, tag="n_articles", width=int(0.85*window_width))
             dpg.add_text("")
             dpg.add_button(label="Search", width=80, height=30, pos=(int(0.35*window_width), 510), callback=self.search)
-        with dpg.window(label="Output", tag="output_window", width=window_width, height=window_height, no_resize=True, no_title_bar=True, no_move=True, pos=(400,0)):
+        with dpg.window(label="Output", tag="output_window", width=window_width, height=window_height, no_resize=True, no_title_bar=True, no_move=True, pos=(window_width,0)):
             dpg.add_text("Proposed articles:", pos=(20, 10))
             with dpg.group(tag="outputs"):
                 pass
