@@ -1,0 +1,2 @@
+29065548,In-target probe,https://en.wikipedia.org/wiki?curid=29065548, 
+intarget,probe,intarget,probe,itp,device,used,computer,hardware,microprocessor,design,control,target,microprocessor,similar,asic,register,level,generally,allows,full,control,target,device,allows,computer,engineer,access,individual,processor,registers,program,counter,instructions,within,device,allows,processor,singlestepped,breakpoints,set,unlike,incircuit,emulator,ice,intarget,probe,uses,target,device,execute,rather,substituting,target,device

@@ -1,0 +1,2 @@
+35915429,TI StarterWare,https://en.wikipedia.org/wiki?curid=35915429, 
+ti,starterware,infopixalcominfopixal,starterware,free,software,package,provided,texas,instruments,starterware,intended,provide,embedded,system,developers,starting,point,require,use,operating,system,designed,easy,migration,ti,embedded,devices

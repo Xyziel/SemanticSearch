@@ -1,0 +1,2 @@
+34768594,Dummy data,https://en.wikipedia.org/wiki?curid=34768594, 
+dummy,data,informatics,dummy,data,benign,information,contain,useful,data,serves,reserve,space,real,data,nominally,present,dummy,data,used,placeholder,testing,operational,purposes,testing,dummy,data,also,used,stubs,pad,avoid,software,testing,issues,ensuring,variables,data,fields,occupied,operational,use,dummy,data,may,transmitted,opsec,purposes,dummy,data,must,rigorously,evaluated,documented,ensure,cause,unintended,effects

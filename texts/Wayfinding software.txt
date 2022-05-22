@@ -1,0 +1,2 @@
+43523586,Wayfinding software,https://en.wikipedia.org/wiki?curid=43523586, 
+wayfinding,software,wayfinding,software,selfservice,computer,program,helps,users,find,location,usually,used,indoors,software,usually,installed,interactive,kiosks,smartphones

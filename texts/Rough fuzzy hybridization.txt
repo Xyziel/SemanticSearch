@@ -1,0 +1,2 @@
+3291080,Rough fuzzy hybridization,https://en.wikipedia.org/wiki?curid=3291080, 
+rough,fuzzy,hybridization,rough,fuzzy,hybridization,method,hybrid,intelligent,system,soft,computing,fuzzy,set,theory,used,linguistic,representation,patterns,leading,fuzzy,granulation,feature,space,rough,set,theory,used,obtain,dependency,rules,model,informative,regions,granulated,feature,space

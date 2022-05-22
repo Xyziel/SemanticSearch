@@ -1,0 +1,2 @@
+40559984,Standard Test and Programming Language,https://en.wikipedia.org/wiki?curid=40559984, 
+standard,test,programming,language,jam,stapl,standard,test,programming,language,alteradeveloped,standard,jtag,incircuit,programming,programmable,logic,devices,defined,jedec,standard,jesd71,stapl,defines,standard,jam,file,format,supports,insystem,programmability,configuration,programmable,devices,jtag,device,programmer,implements,jam,player,reads,file,set,instructions,directing,program,pld,standard,supported,multiple,pld,device,programmer,manufacturers

@@ -1,0 +1,2 @@
+1445626,Eunicycle,https://en.wikipedia.org/wiki?curid=1445626, 
+eunicycle,eunicycle,computercontrolled,partially,selfbalancing,motorized,unicycle,invented,trevor,blackwell,uses,computer,control,system,similar,one,used,segway,ht,servos,wheel,balance,keeping,contact,point,wheel,center,mass,vehicle,fronttoback,direction,balance,side,side,rider,must,rotate,vehicle,way,unicyclist,enabling,balancing,servo,balance,new,direction,eunicycle,based,open,design,engineering,drawings,control,software,source,code,available,website

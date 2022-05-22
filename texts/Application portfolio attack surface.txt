@@ -1,0 +1,2 @@
+38515506,Application portfolio attack surface,https://en.wikipedia.org/wiki?curid=38515506, 
+application,portfolio,attack,surface,realm,application,security,term,application,portfolio,attack,surface,apas,refers,collective,risk,organization,posed,sum,total,security,vulnerabilities,found,within,set,mission,critical,systems,software,run,organization,enterprise

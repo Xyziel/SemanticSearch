@@ -1,0 +1,2 @@
+15334324,Cloudbook,https://en.wikipedia.org/wiki?curid=15334324, 
+cloudbook,cloudbook,smallstorage,laptop,depends,networked,storage,services,cloud,come,packaged,device,examples,include,google,chrome,os,cloudbooks,chromebooks,installed,google,drive,windows,os,cloudbooks,bundled,microsofts,onedrive

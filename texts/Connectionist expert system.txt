@@ -1,0 +1,2 @@
+2368264,Connectionist expert system,https://en.wikipedia.org/wiki?curid=2368264, 
+connectionist,expert,system,connectionist,expert,systems,artificial,neural,network,ann,based,expert,systems,ann,generates,inferencing,rules,eg,fuzzymulti,layer,perceptron,linguistic,natural,form,inputs,used,apart,rough,set,theory,may,used,encoding,knowledge,weights,better,also,genetic,algorithms,may,used,optimize,search,solutions,better,symbolic,reasoning,methods,may,also,incorporated,see,hybrid,intelligent,system,also,see,expert,system,neural,network,clinical,decision,support,system

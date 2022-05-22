@@ -1,0 +1,2 @@
+60087145,Consul (software),https://en.wikipedia.org/wiki?curid=60087145, 
+consul,software,consul,free,opensource,service,networking,platform,developed,hashicorp,overview,consul,initially,released,2014,service,discovery,platform,addition,service,discovery,provides,fullfeatured,service,mesh,secure,service,segmentation,across,cloud,runtime,environment,distributed,keyvalue,storage,application,configuration,registered,services,nodes,queried,using,dns,interface,http,interface,envoy,proxy,provides,security,observability,resilience,application,traffic

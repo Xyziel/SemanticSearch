@@ -1,0 +1,2 @@
+62844867,Cowrie (honeypot),https://en.wikipedia.org/wiki?curid=62844867, 
+cowrie,honeypot,cowrie,medium,interaction,ssh,telnet,honeypot,designed,log,brute,force,attacks,shell,interaction,performed,attacker,cowrie,also,functions,ssh,telnet,proxy,observe,attacker,behavior,another,system,cowrie,developed,kippo,reception,cowrie,referenced,published,papers,book,handson,ethical,hacking,network,defense,includes,cowrie,list,5,commercial,honeypots

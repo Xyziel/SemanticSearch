@@ -1,0 +1,2 @@
+42191358,VOGL,https://en.wikipedia.org/wiki?curid=42191358, 
+vogl,vogl,debugger,opengl,rendering,api,intended,used,development,video,games,vogl,originally,written,rad,game,tools,valve,vogl,free,opensource,software,subject,terms,mit,license,description,graphical,frontend,implementing,qt5based,gui,widgets,vogl,initially,released,support,linux,operating,systems,april,23,2014,additional,support,microsoft,windows,released,goals,included,voglperf,benchmarking,tool,linux,opengl,games

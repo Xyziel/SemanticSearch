@@ -1,0 +1,2 @@
+30948577,Orbada,https://en.wikipedia.org/wiki?curid=30948577, 
+orbada,orbada,free,tool,database,developers,sql,developers,administrators,software,includes,many,wizards,special,features,help,database,administrator,job,using,java,jdbc,drivers,allows,users,connect,multiple,databases,orbada,provided,dedicated,plugin,databases,oracle,sqlite,firebird,hsqldb,derbydb,help,syntax,highlighting,database,browser,profiler,tool,still,developed,additional,plugins,program,distributed,gnu,general,public,license

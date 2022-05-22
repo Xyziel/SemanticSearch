@@ -1,0 +1,2 @@
+17558897,Ultra-low-voltage processor,https://en.wikipedia.org/wiki?curid=17558897, 
+ultralowvoltage,processor,ultralowvoltage,processors,ulv,processors,class,microprocessor,deliberately,underclocked,consume,less,power,typically,17,w,expense,performance,processors,commonly,used,subnotebooks,netbooks,ultraportables,embedded,devices,low,heat,dissipation,long,battery,life,required

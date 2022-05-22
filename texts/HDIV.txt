@@ -1,0 +1,2 @@
+47499299,HDIV,https://en.wikipedia.org/wiki?curid=47499299, 
+hdiv,hdiv,web,application,security,framework,controls,information,flow,server,client,avoiding,many,important,web,risks,hdiv,extends,web,applications,behaviour,adding,security,functionalities,maintaining,api,framework,specification,implies,hdiv,may,used,applications,developed,spring,mvc,grails,jstl,struts,1,struts,2,javaserver,faces,symfony,transparent,way,programmer,without,adding,complexity,application,development

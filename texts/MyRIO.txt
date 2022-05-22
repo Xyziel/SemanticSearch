@@ -1,0 +1,2 @@
+50911068,MyRIO,https://en.wikipedia.org/wiki?curid=50911068, 
+myrio,myrio,realtime,embedded,evaluation,board,made,national,instruments,used,develop,applications,utilize,onboard,fpga,microprocessor,requires,labview,geared,towards,students,basic,applications,similar,products,crio,compactrio,mydaq

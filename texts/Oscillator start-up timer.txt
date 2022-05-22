@@ -1,0 +1,2 @@
+33552217,Oscillator start-up timer,https://en.wikipedia.org/wiki?curid=33552217, 
+oscillator,startup,timer,oscillator,startup,timer,ost,module,used,microcontrollers,keep,device,reset,crystal,oscillator,stable,crystal,oscillator,starts,frequency,constant,causes,clock,frequency,nonconstant,would,cause,timing,errors,leading,many,problems,oscillator,startup,timer,ensures,device,operates,oscillator,generates,stable,clock,frequency,pic,microcontrollers,oscillator,startup,timer,holds,devices,reset,1024oscillatorcycle,delay,allow,oscillator,stabilize

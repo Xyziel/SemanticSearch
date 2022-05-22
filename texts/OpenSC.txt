@@ -1,0 +1,2 @@
+31889265,OpenSC,https://en.wikipedia.org/wiki?curid=31889265, 
+opensc,opensc,set,software,tools,libraries,work,smart,cards,focus,smart,cards,cryptographic,capabilities,opensc,facilitate,use,smart,cards,security,applications,authentication,encryption,digital,signatures,opensc,implements,pkcs,15,standard,pkcs,11,api,also,provides,support,common,data,security,architecture,cdsa,mac,os,x,microsoft,cryptoapi,windows,still,work,progress

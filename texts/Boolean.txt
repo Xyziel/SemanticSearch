@@ -1,0 +1,2 @@
+212335,Boolean,https://en.wikipedia.org/wiki?curid=212335, 
+boolean,kind,logic,function,expression,theory,based,work,george,boole,considered,boolean,related,boolean,may,refer

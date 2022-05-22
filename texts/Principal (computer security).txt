@@ -1,0 +1,2 @@
+21557464,Principal (computer security),https://en.wikipedia.org/wiki?curid=21557464, 
+principal,computer,security,principal,computer,security,entity,authenticated,computer,system,network,referred,security,principal,java,microsoft,literature,principals,individual,people,computers,services,computational,entities,processes,threads,group,things,need,identified,authenticated,assigned,rights,privileges,resources,network,principal,typically,associated,identifier,security,identifier,allows,referenced,identification,assignment,properties,permissions

@@ -1,0 +1,2 @@
+62839400,Tig (software),https://en.wikipedia.org/wiki?curid=62839400, 
+tig,software,tig,ncursesbased,textmode,interface,git,functions,mainly,git,repository,browser,also,assist,staging,changes,commit,chunk,level,act,pager,output,various,git,commands

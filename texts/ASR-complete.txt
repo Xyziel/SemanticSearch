@@ -1,0 +1,2 @@
+2376785,ASR-complete,https://en.wikipedia.org/wiki?curid=2376785, 
+asrcomplete,asrcomplete,analogy,npcompleteness,complexity,theory,term,indicate,difficulty,computational,problem,equivalent,solving,central,automatic,speech,recognition,problem,ie,recognize,understanding,spoken,language,unlike,npcompleteness,term,typically,used,informally,problems,hypothesised,include,problems,easy,humans,fact,described,directly,terms,imitating,humans,systems,solve,simple,restricted,versions,problems,none,solve,full,generality

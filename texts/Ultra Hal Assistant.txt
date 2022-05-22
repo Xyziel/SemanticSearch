@@ -1,0 +1,2 @@
+30131890,Ultra Hal Assistant,https://en.wikipedia.org/wiki?curid=30131890, 
+ultra,hal,assistant,ultra,hal,assistant,chatterbot,intended,function,personal,assistant,developed,zabaware,inc,ultra,hal,uses,natural,language,interface,animated,characters,using,speech,synthesis,users,communicate,chatterbot,via,typing,via,speech,recognition,engine,utilizes,wordnet,lexical,dictionary,name,allusion,hal,9000,artificial,intelligence,movie,ultra,hal,2007,loebner,prize,human,chatterbot

@@ -1,0 +1,2 @@
+6171129,BasicX,https://en.wikipedia.org/wiki?curid=6171129, 
+basicx,basicx,free,programming,language,designed,specifically,netmedias,bx24,microcontroller,based,basic,programming,language,used,design,robotics,projects,robodyssey,systems,mouse,robot

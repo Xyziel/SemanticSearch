@@ -1,0 +1,2 @@
+48552831,Kuma (software),https://en.wikipedia.org/wiki?curid=48552831, 
+kuma,software,kuma,djangobased,platform,powers,mozilla,developer,network,hosted,github,open,source,software,licensed,mozilla,public,license,20,main,function,platform,gather,people,around,mdn,contribute,documentation,stored,maintained,part,project,including,javascript,api,available,modern,web,browsers,advanced,translation,tools,available,well,current,design,assumes,installation,vagrant,controlled,virtual,machines,configuration,includes,ansible

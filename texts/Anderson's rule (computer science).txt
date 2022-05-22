@@ -1,0 +1,2 @@
+49626446,Anderson's rule (computer science),https://en.wikipedia.org/wiki?curid=49626446, 
+andersons,rule,computer,science,field,computer,security,andersons,rule,refers,principle,formulated,ross,j,anderson,systems,handle,sensitive,personal,information,involve,trilemma,security,functionality,scale,choose,two,system,information,many,data,subjects,many,people,require,access,hard,secure,unless,functionality,severely,restricted,rich,functionality,may,restrict,number,people,access,accept,information,leak

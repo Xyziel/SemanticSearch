@@ -1,0 +1,2 @@
+13911207,Attributional calculus,https://en.wikipedia.org/wiki?curid=13911207, 
+attributional,calculus,attributional,calculus,logic,representation,system,defined,ryszard,michalski,combines,elements,predicate,logic,propositional,calculus,multivalued,logic,attributional,calculus,provides,formal,language,natural,induction,inductive,learning,process,whose,results,forms,natural,people,references,michalski,rs,attributional,calculus,logic,representation,language,natural,induction,reports,machine,learning,inference,laboratory,mli,042,george,mason,university,fairfax,va,april,2004

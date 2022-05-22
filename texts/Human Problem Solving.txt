@@ -1,0 +1,2 @@
+53322329,Human Problem Solving,https://en.wikipedia.org/wiki?curid=53322329, 
+human,problem,solving,human,problem,solving,1972,book,allen,newell,herbert,simon

@@ -1,0 +1,2 @@
+32501004,Models And Counter-Examples,https://en.wikipedia.org/wiki?curid=32501004, 
+models,counterexamples,mace,stands,models,counterexamples,model,finder,automated,theorem,provers,try,perform,proof,refutation,clause,normal,form,proof,problem,showing,combination,axioms,negated,conjecture,never,simultaneously,true,ie,model,model,finder,mace,hand,tries,find,explicit,model,set,clauses,succeeds,corresponds,counterexample,conjecture,ie,disproves,claimed,theorem,mace,gnu,gpl,licensed

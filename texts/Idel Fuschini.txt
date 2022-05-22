@@ -1,0 +1,2 @@
+38089649,Idel Fuschini,https://en.wikipedia.org/wiki?curid=38089649, 
+idel,fuschini,idel,fuschini,software,engineer,specializing,mobiles,owner,apache,mobile,filter,open,source,software,library,perl,meant,use,apache,web,server,modperl2,extension,module,detecting,mobile,devices,directly,apache,web,server,also,founder,owner,double77,mediawiki,mentioned,amf,compatible,software,device,detection,fuschini,contributor,cpan,included,modulesapacheorg

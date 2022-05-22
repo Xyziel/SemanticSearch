@@ -1,0 +1,2 @@
+3684940,Free Download Manager,https://en.wikipedia.org/wiki?curid=3684940, 
+free,download,manager,free,download,manager,download,manager,windows,macos,linux,android,fdm,initially,proprietary,software,free,opensource,software,versions,25,397,starting,version,30852,15,april,2010,source,code,made,available,projects,subversion,repository,instead,included,binary,package,continued,versions,397,source,code,version,50,newer,available,gnu,general,public,license,agreement,removed,app

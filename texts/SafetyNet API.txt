@@ -1,0 +1,2 @@
+68701600,SafetyNet API,https://en.wikipedia.org/wiki?curid=68701600, 
+safetynet,api,safetynet,api,security,feature,google,play,services,provide,security,sensitive,applications,verification,integrity,device,compromised,using,application,programming,interface,api,safetynet,api,deprecated,google,replaced,play,integrity,soon

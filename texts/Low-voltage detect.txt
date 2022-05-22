@@ -1,0 +1,2 @@
+24445354,Low-voltage detect,https://en.wikipedia.org/wiki?curid=24445354, 
+lowvoltage,detect,lowvoltage,detect,lvd,microcontroller,microprocessor,peripheral,generates,reset,signal,vcc,supply,voltage,falls,vref,sometimes,combined,poweron,reset,por,called,porlvd

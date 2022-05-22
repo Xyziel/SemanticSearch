@@ -1,0 +1,2 @@
+34336090,GNU Solfege,https://en.wikipedia.org/wiki?curid=34336090, 
+gnu,solfege,gnu,solfege,ear,training,program,written,python,intended,help,musicians,improve,skills,knowledge,free,software,part,gnu,project,gnu,solfege,available,linux,windows,os,x,exercises,software,made,way,possible,user,customize,existing,exercises,create,new,ones

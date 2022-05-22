@@ -1,0 +1,2 @@
+24337771,NP = co-NP problem,https://en.wikipedia.org/wiki?curid=24337771, 
+np,conp,problem

@@ -1,0 +1,2 @@
+53549637,Branch Queue,https://en.wikipedia.org/wiki?curid=53549637, 
+branch,queue,computer,architecture,branch,predictions,branch,queue,takes,place,branch,predictor,predicts,branch,taken,branch,queue,stores,predictions,used,later,branch,queue,consists,2,values,taken,taken,branch,queue,helps,algorithms,increase,parallelism,optimization,software,implemented,hardware,one,falls,hardware,software,codesign

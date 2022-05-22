@@ -1,0 +1,2 @@
+70098537,Entity framework extensions,https://en.wikipedia.org/wiki?curid=70098537, 
+entity,framework,extensions,entity,framework,extensions,extension,enhance,performance,entity,framework,ef,open,source,object–relational,mapping,orm,framework,adonet,released,2014,solve,entity,framework,performance,issue,available,download,nuget,library,solves,ef,issues,using,several,bulk,operations,along,features

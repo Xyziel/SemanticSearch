@@ -1,0 +1,2 @@
+21648731,CSS framework,https://en.wikipedia.org/wiki?curid=21648731, 
+css,framework,css,framework,library,allowing,easier,standardscompliant,web,design,using,cascading,style,sheets,language,frameworks,contain,least,grid,functional,frameworks,also,come,features,additional,javascript,based,functions,mostly,design,oriented,focused,around,interactive,ui,patterns,detail,differentiates,css,frameworks,javascript,frameworks,two,notable,widely,used,examples,bootstrap,foundation,css,frameworks,offer,different,modules,tools,bigger,frameworks,use,css,interpreter,like,less,sass

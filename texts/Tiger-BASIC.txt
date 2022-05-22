@@ -1,0 +1,2 @@
+6746402,Tiger-BASIC,https://en.wikipedia.org/wiki?curid=6746402, 
+tigerbasic,tigerbasic,high,speed,multitasking,basic,dialect,list,basic,dialects,program,microcontrollers,basictiger,family,tigerbasic,integrated,development,environment,goes,developed,wilketechnology,aachen,germany

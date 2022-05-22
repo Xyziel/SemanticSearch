@@ -1,0 +1,2 @@
+35613131,Drosera (orienteering),https://en.wikipedia.org/wiki?curid=35613131, 
+drosera,orienteering,drosera,open,source,orienteering,competition,management,software,part,orienteering,toolbox,written,java,ee,server,web,interface,rest,api,communication,programs,built,use,electronic,punching,system,sportident,2012,software,still,beta,stage,used,managing,several,live,competitions

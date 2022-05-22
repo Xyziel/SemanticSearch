@@ -1,0 +1,2 @@
+2989523,Secure environment,https://en.wikipedia.org/wiki?curid=2989523, 
+secure,environment,computing,secure,environment,system,implements,controlled,storage,use,information,event,computing,data,loss,secure,environment,used,protect,personal,andor,confidential,data,often,secure,environments,employ,cryptography,means,protect,information,secure,environments,employ,cryptographic,hashing,simply,verify,information,altered,since,last,modified

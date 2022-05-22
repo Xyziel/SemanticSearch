@@ -1,0 +1,2 @@
+37468790,AmfPHP,https://en.wikipedia.org/wiki?curid=37468790, 
+amfphp,amfphp,library,creating,phpbased,application,back,ends,key,features,support,amf,among,protocols,developer,tools,service,browser,client,code,generator,performance,profiler,amfphp,used,primarily,games,apache,flex,business,applications

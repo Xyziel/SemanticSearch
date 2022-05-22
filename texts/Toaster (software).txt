@@ -1,0 +1,2 @@
+23082192,Toaster (software),https://en.wikipedia.org/wiki?curid=23082192, 
+toaster,software,term,toaster,refers,selfcontained,software,package,appliance,easily,distributable,electronic,means,freedom,toaster,project,use,generally,connotes,free,software,term,occasionally,used,open,source,software,community,toaster,appliance,often,made,software,components,originally,packaged,together,new,toaster,package,provides,coordinated,packaging,framework,components,function,together,selfcontained,unit

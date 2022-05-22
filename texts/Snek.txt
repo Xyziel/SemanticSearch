@@ -1,0 +1,2 @@
+52125156,Snek,https://en.wikipedia.org/wiki?curid=52125156, 
+snek,snek,interpreted,programming,language,based,python,designed,running,embedded,systems,designed,education,able,run,2,kb,ram

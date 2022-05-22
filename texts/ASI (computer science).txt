@@ -1,0 +1,2 @@
+62121955,ASI (computer science),https://en.wikipedia.org/wiki?curid=62121955, 
+asi,computer,science
