@@ -1,0 +1,2 @@
+3688803,Atropos scheduler,https://en.wikipedia.org/wiki?curid=3688803, 
+atropos,scheduler,computer,science,atropos,realtime,scheduling,algorithm,developed,cambridge,university,combines,earliest,deadline,first,algorithm,best,effort,scheduler,make,use,slack,time,exercising,strict,admission,control

@@ -1,0 +1,2 @@
+1806683,Prefetching,https://en.wikipedia.org/wiki?curid=1806683, 
+prefetching,prefetching,computer,science,technique,speeding,fetch,operations,beginning,fetch,operation,whose,result,expected,needed,soon,usually,known,needed,risk,wasting,time,prefetching,data,used,technique,applied,several,circumstances

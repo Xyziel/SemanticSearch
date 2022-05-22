@@ -1,0 +1,2 @@
+2839548,Output compare,https://en.wikipedia.org/wiki?curid=2839548, 
+output,compare,output,compare,ability,trigger,output,based,timestamp,memory,without,interrupting,execution,code,processor,microcontroller,functionality,provided,many,embedded,systems,corresponding,ability,record,timestamp,memory,input,occurs,called,input,capture

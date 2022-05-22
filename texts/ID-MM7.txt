@@ -1,0 +1,2 @@
+9510546,ID-MM7,https://en.wikipedia.org/wiki?curid=9510546, 
+idmm7,idmm7,protocol,developed,promoted,liberty,alliance,driven,major,mobile,operators,vodafone,telefónica,móviles,standardize,identitybased,web,services,interfaces,mobile,messaging,idmm7,specification,adds,significant,value,existing,web,services,mm7,long,used,operators,relaying,mms,sms,traffic,idmm,enables,entirely,new,business,model,wherein,content,providers,know,subscribers,pseudonymously,providing,capability,thwart,spam,identity,theft,fraud,known,implementations,protocol,include

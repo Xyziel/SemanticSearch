@@ -1,0 +1,2 @@
+43480298,Babelfy,https://en.wikipedia.org/wiki?curid=43480298, 
+babelfy,babelfy,software,algorithm,disambiguation,text,written,language,specifically,babelfy,performs,tasks,multilingual,word,sense,disambiguation,ie,disambiguation,common,nouns,verbs,adjectives,adverbs,entity,linking,ie,disambiguation,mentions,encyclopedic,entities,like,people,companies,places,etc,babelfy,based,babelnet,multilingual,semantic,network,performs,disambiguation,entity,linking,three,steps,result,text,written,271,languages,supported,babelnet,output,possibly,overlapping,semantic,annotations

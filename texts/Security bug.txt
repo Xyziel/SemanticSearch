@@ -1,0 +1,2 @@
+8632926,Security bug,https://en.wikipedia.org/wiki?curid=8632926, 
+security,bug,security,bug,security,defect,software,bug,exploited,gain,unauthorized,access,privileges,computer,system,security,bugs,introduce,security,vulnerabilities,compromising,one,security,bugs,need,identified,exploited,qualified,assumed,much,common,known,vulnerabilities,almost,system,causes,security,bugs,like,software,bugs,stem,root,causes,generally,traced,either,absent,inadequate,taxonomy,security,bugs,generally,fall,fairly,small,number,broad,categories,include,mitigation,see,software,security,assurance

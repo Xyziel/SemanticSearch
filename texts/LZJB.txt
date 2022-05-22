@@ -1,0 +1,2 @@
+7783443,LZJB,https://en.wikipedia.org/wiki?curid=7783443, 
+lzjb,lzjb,lossless,data,compression,algorithm,invented,jeff,bonwick,compress,crash,dumps,data,zfs,software,cddl,license,licensed,includes,number,improvements,lzrw1,algorithm,member,lempel–ziv,family,compression,algorithms,name,lzjb,derived,parent,algorithm,creator—lempel,ziv,jeff,bonwick,bonwick,also,one,two,architects,zfs,creator,slab,allocator

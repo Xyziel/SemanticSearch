@@ -1,0 +1,2 @@
+58368249,BeyondCorp,https://en.wikipedia.org/wiki?curid=58368249, 
+beyondcorp,beyondcorp,implementation,google,zerotrust,computer,security,concepts,creating,zero,trust,network,created,response,2009,operation,aurora,open,source,implementation,inspired,googles,research,paper,access,proxy,known,transcend,security,mechanisms,unlike,traditional,vpns,beyondcorps,access,policies,based,information,device,state,associated,user,beyondcorp,considers,internal,networks,external,networks,completely,untrusted,gates,access,applications,dynamically,asserting,enforcing,levels,“,tiers,”,access

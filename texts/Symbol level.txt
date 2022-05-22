@@ -1,0 +1,2 @@
+637857,Symbol level,https://en.wikipedia.org/wiki?curid=637857, 
+symbol,level,knowledgebased,systems,agents,choose,actions,based,principle,rationality,move,closer,desired,goal,agent,able,make,decisions,based,knowledge,world,see,knowledge,level,agent,actually,change,state,must,use,whatever,means,available,level,description,agents,behavior,symbol,level,term,coined,allen,newell,1982,example,computer,program,knowledge,level,consists,information,contained,data,structures,uses,perform,certain,actions,symbol,level,consists,programs,algorithms,data,structures

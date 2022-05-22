@@ -1,0 +1,2 @@
+17299671,Embedded Board eXpandable,https://en.wikipedia.org/wiki?curid=17299671, 
+embedded,board,expandable,embedded,board,expandable,ebx,standardized,computer,form,factor,format,created,embedded,computer,systems,consortium,including,motorola,ampro,ebx,systems,typically,embedded,powerpc,powerquicc,based,system,board,specified,incorporates,pc104plus,connection,subset,peripheral,expansion,optional,connectors,pcmcia,allowed

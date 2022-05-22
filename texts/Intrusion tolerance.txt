@@ -1,0 +1,2 @@
+5602379,Intrusion tolerance,https://en.wikipedia.org/wiki?curid=5602379, 
+intrusion,tolerance,intrusion,tolerance,faulttolerant,design,approach,defending,information,systems,malicious,attacks,sense,also,computer,security,approach,abandoning,conventional,aim,preventing,intrusions,intrusion,tolerance,instead,calls,triggering,mechanisms,prevent,intrusions,leading,system,security,failure,two,major,variants,intrusion,tolerance,mechanisms,mechanisms,based,redundancy,eg,byzantine,fault,tolerance,mechanisms,based,intrusion,detection,eg,intrusion,detection,system,reaction

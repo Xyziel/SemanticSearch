@@ -1,0 +1,2 @@
+37394465,KAoS,https://en.wikipedia.org/wiki?curid=37394465, 
+kaos,kaos,policy,domain,services,framework,created,florida,institute,human,machine,cognition,uses,w3cs,web,ontology,language,owl,standard,policy,representation,reasoning,software,guard,technology,efficient,enforcement,compiled,version,policies,used,variety,governmentsponsored,projects,distributed,host,network,management,coordination,humanagentrobot,teams,including,darpas,coabs,grid,cougaar,common,object,request,broker,architecture,corba,models

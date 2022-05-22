@@ -1,0 +1,2 @@
+24039538,List of wireless sensor nodes,https://en.wikipedia.org/wiki?curid=24039538, 
+list,wireless,sensor,nodes,sensor,node,also,known,mote,chiefly,north,america,node,sensor,network,capable,performing,processing,gathering,sensory,information,communicating,connected,nodes,network,mote,node,node,always,mote

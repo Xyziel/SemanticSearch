@@ -1,0 +1,2 @@
+17389142,System appreciation,https://en.wikipedia.org/wiki?curid=17389142, 
+system,appreciation,system,appreciation,activity,often,included,maintenance,phase,software,engineering,projects,key,deliverables,phase,include,documentation,describes,system,terms,functional,features,achieves,features,terms,architecture,design,software,architecture,recovery,often,first,step,within,system,appreciation

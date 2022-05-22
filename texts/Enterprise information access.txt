@@ -1,0 +1,2 @@
+12799096,Enterprise information access,https://en.wikipedia.org/wiki?curid=12799096, 
+enterprise,information,access,enterprise,information,access,refers,information,systems,allow,enterprise,search,content,classification,content,clustering,information,extraction,enterprise,bookmarking,taxonomy,creation,management,information,presentation,example,visualization,support,analysis,understanding,desktop,personal,knowledge,search

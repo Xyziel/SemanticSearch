@@ -1,0 +1,2 @@
+17577108,CPU shielding,https://en.wikipedia.org/wiki?curid=17577108, 
+cpu,shielding,cpu,shielding,practice,multiprocessor,system,cpu,multiple,cores,realtime,tasks,run,one,cpu,core,nonrealtime,tasks,run,another,operating,system,must,able,set,cpu,affinity,processes,interrupts,kernel,space,linux,order,shield,cpus,individual,interrupts,serviced,make,sure,following,kernel,configuration,parameter,set

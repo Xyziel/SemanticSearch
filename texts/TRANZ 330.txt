@@ -1,0 +1,2 @@
+5710033,TRANZ 330,https://en.wikipedia.org/wiki?curid=5710033, 
+tranz,330,tranz,330,popular,pointofsale,device,manufactured,verifone,1985,common,application,units,bank,credit,card,processing,however,general,purpose,computer,perform,novel,functions,applications,include,giftbenefit,card,processing,prepaid,phone,cards,payroll,employee,timekeeping,even,debit,atm,cards,programmed,proprietary,verifone,tcl,language,terminal,control,language,unrelated,tool,command,language,used,unix,environments

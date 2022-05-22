@@ -1,0 +1,2 @@
+7764774,Secure state,https://en.wikipedia.org/wiki?curid=7764774, 
+secure,state,secure,state,information,systems,security,term,describe,entities,computer,system,divided,subjects,objects,formally,proven,state,transition,preserves,security,moving,one,secure,state,another,secure,state,thereby,inductively,proven,system,secure,defined,bell–lapadula,model,secure,state,built,concept,state,machine,set,allowable,states,system,transition,one,state,another,state,defined,transition,functions,system,state,defined,secure,permitted,access,modes,subjects,objects,accordance,security,policy

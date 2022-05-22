@@ -1,0 +1,2 @@
+66275084,Fuzzy finder,https://en.wikipedia.org/wiki?curid=66275084, 
+fuzzy,finder,fuzzy,finder,computer,program,performing,fuzzy,search,program,reads,list,codice1,user,interactively,filters,program,writes,result,codice2,fuzzy,finders,often,used,combination,unix,commands,codice3,codice4,codice5,examples,following,example,interactively,selects,regular,files,current,working,directory,tree,write,result

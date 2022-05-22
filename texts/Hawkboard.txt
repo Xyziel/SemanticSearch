@@ -1,0 +1,2 @@
+29329560,Hawkboard,https://en.wikipedia.org/wiki?curid=29329560, 
+hawkboard,hawkboard,lowpower,lowcost,singleboard,computer,based,texas,instruments,omapl138,along,usage,omap,arm9,processor,also,floating,point,dsp,community,supported,development,platform,date,hawkboard,project,closed,common,hardware,issue

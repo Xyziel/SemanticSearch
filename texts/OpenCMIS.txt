@@ -1,0 +1,2 @@
+35624889,OpenCMIS,https://en.wikipedia.org/wiki?curid=35624889, 
+opencmis,opencmis,subproject,apache,chemistry,project,apache,software,foundation,asf,open,source,collection,java,libraries,frameworks,tools,around,cmis,specification,document,interoperability,goal,opencmis,make,cmis,simple,client,server,java,developers,hides,binding,details,provides,apis,spis,different,abstraction,levels,also,includes,test,tools,content,repository,developers,client,application,developers,opencmis,products

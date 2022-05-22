@@ -1,0 +1,2 @@
+28103481,Retrospective think aloud,https://en.wikipedia.org/wiki?curid=28103481, 
+retrospective,think,aloud,retrospective,think,aloud,protocol,technique,used,usability,eye,tracking,particular,gather,qualitative,information,user,intents,reasoning,test,form,think,aloud,protocol,performed,user,testing,session,activities,instead,fairly,often,retrospective,protocol,stimulated,using,visual,reminder,video,replay,writing,studies,visual,reminder,may,writing,produced,thinkaloud,session

@@ -1,0 +1,2 @@
+15595741,Automatic system recovery,https://en.wikipedia.org/wiki?curid=15595741, 
+automatic,system,recovery,automatic,system,recovery,device,process,detects,computer,failure,attempts,recovery,device,may,make,use,watchdog,timer,may,also,refer,microsoft,recovery,technology,name

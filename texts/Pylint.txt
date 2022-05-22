@@ -1,0 +1,2 @@
+32018084,Pylint,https://en.wikipedia.org/wiki?curid=32018084, 
+pylint,pylint,sourcecode,bug,quality,checker,python,programming,language,named,following,common,convention,python,py,prefix,nod,c,programming,lint,program,follows,style,recommended,pep,8,python,style,guide,similar,pychecker,pyflakes,includes,following,features,also,equipped,pyreverse,module,allows,uml,diagrams,generated,python,code,used,standalone,program,also,integrates,ides,eclipse,pydev,visual,studio,code,editors,atom,gnu,emacs,vim,received,favourable,reviews

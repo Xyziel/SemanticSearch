@@ -1,0 +1,2 @@
+5857763,Udhcpc,https://en.wikipedia.org/wiki?curid=5857763, 
+udhcpc,udhcpc,small,dhcp,client,program,geared,towards,embedded,systems,letters,abbreviation,micro,dhcp,client,μdhcpc,program,tries,fully,functional,rfc,2131,compliant,packaged,similarly,small,dhcp,server,program,named,udhcpd,package,called,udhcp,maintained,part,busybox,built,uclibc,client,executable,around,18k,program,accepts,options,command,line,calls,external,scripts,handle,configuration,interfaces,udhcp,originally,developed,1999,matthew,ramsay,distributed,gnu,gpl,moreton,bay

@@ -1,0 +1,2 @@
+29469215,Ceibo emulator,https://en.wikipedia.org/wiki?curid=29469215, 
+ceibo,emulator,ceibo,emulator,incircuit,emulator,microcontrollers,microprocessors,emulators,use,bondout,processors,internal,signals,brought,purpose,debugging,signals,provide,information,state,processor,otherwise,unobtainable,supported,microprocessors,microcontrollers,include,atmel,dallas,semiconductor,infineon,intel,microchip,nec,philips,stmicroelectronics,winbond

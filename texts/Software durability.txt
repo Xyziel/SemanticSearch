@@ -1,0 +1,2 @@
+49250015,Software durability,https://en.wikipedia.org/wiki?curid=49250015, 
+software,durability,software,engineering,software,durability,means,solution,ability,serviceability,software,meet,users,needs,relatively,long,time,software,durability,important,users,satisfaction,software,security,durable,must,allow,organization,adjust,software,business,needs,constantly,evolving,often,impulsive,ways,durability,software,depends,four,characteristics,mainly,ie,software,trustworthiness,human,trust,serviceability,software,dependability,software,usability

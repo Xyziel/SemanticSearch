@@ -1,0 +1,2 @@
+24337712,P = PSPACE problem,https://en.wikipedia.org/wiki?curid=24337712, 
+p,pspace,problem

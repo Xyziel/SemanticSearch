@@ -1,0 +1,2 @@
+42042198,ADS-AC,https://en.wikipedia.org/wiki?curid=42042198, 
+adsac,adsac,experimental,open,source,program,implements,absolutely,dynamic,system,ads,proposed,mechanism,artificial,consciousness,ac,theory,adsac,uses,system,points,nodes,connected,links,create,structure,knots,nodes,properties,links,nodes,order,maintain,absolute,dynamicity

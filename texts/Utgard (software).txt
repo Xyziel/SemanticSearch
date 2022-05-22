@@ -1,0 +1,2 @@
+47611808,Utgard (software),https://en.wikipedia.org/wiki?curid=47611808, 
+utgard,software,utgard,vendorindependent,java,opc,client,api,supports,opc,interface,used,independently,eclipse,scada,projects,utgard,used,eclipse,scada,together,atlantis,connect,communicate,systems,vendors,opc,da,20,interface,project,open,source,written,pure,java,distributed,lgpl,run,utgard,prerequisites,java,16,environment,words,utgard,possible,communicate,opc,interface,osindependent,manner,without,needing,additional,dllsshared,libraries,jni,libraries,currently,opc,server,required,communicate,utgard

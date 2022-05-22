@@ -1,0 +1,2 @@
+38387377,Basic For Qt,https://en.wikipedia.org/wiki?curid=38387377, 
+basic,qt,basic,qt,successor,kbasic,objectoriented,framework,related,vbnet,visual,basic,well,integrated,development,environment,designed,run,multiple,platforms,precompiled,binaries,available,mac,windows,linux,distributions,source,code,also,available

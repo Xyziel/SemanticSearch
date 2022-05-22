@@ -1,0 +1,2 @@
+3761693,Semantic broker,https://en.wikipedia.org/wiki?curid=3761693, 
+semantic,broker,semantic,broker,computer,service,automatically,provides,semantic,mapper,services,semantic,broker,frequently,part,semantic,middleware,system,leverage,semantic,equivalence,statements,qualify,semantic,broker,product,system,must,able,automatically,extract,data,message,use,semantic,equivalence,statements,transform,another,namespace

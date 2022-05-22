@@ -1,0 +1,2 @@
+64641137,Coverage (information systems),https://en.wikipedia.org/wiki?curid=64641137, 
+coverage,information,systems,coverage,information,system,criterion,completeness,records,information,system,defined,ratio,number,instancesrecords,system,mostly,implemented,database,represent,real,world,entities,number,entities,exist,real,world,represented,information,system,according,purpose,example,170,countries,world,information,system,holds,153,country,records,coverage,countries,information,system,90

@@ -1,0 +1,2 @@
+7539196,The Leaf (AI) Project,https://en.wikipedia.org/wiki?curid=7539196, 
+leaf,ai,project,leaf,project,group,robot,development,program,whose,objective,develop,robot,platform,supports,experiments,artificial,intelligence,vision,navigation,etc,leaf,created,bruce,weimer,alex,brown,robin,hewitt,artificial,life,program,inspired,steve,grands,computer,game,creatures,artificial,beings,hatch,develop,interact,simulated,environment,pc,softwareonly,version,leaf,demonstrated,2003,construction,first,robot,began,early,2004,overview,leaf,three,leaf,robots,completed,2004,four,built,2006

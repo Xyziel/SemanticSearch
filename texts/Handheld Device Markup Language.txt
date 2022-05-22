@@ -1,0 +1,2 @@
+191844,Handheld Device Markup Language,https://en.wikipedia.org/wiki?curid=191844, 
+handheld,device,markup,language,handheld,device,markup,language,hdml,markup,language,intended,display,handheld,computers,information,appliances,smartphones,etc,similar,html,wireless,handheld,devices,small,displays,like,pda,mobile,phones,originally,developed,1996,unwired,planet,company,became,phonecom,openwave,hdml,submitted,w3c,standardization,turned,standard,instead,became,important,influence,development,standardization,wml,replaced,hdml,practice,unlike,wml,hdml,support,scripts

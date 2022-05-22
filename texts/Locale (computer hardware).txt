@@ -1,0 +1,2 @@
+32595505,Locale (computer hardware),https://en.wikipedia.org/wiki?curid=32595505, 
+locale,computer,hardware,computer,architecture,locale,abstraction,concept,localized,set,hardware,resources,close,enough,enjoy,uniform,memory,access,instance,computer,cluster,node,may,considered,locale,given,one,instance,operating,system,uniform,access,memory,processes,running,node,similarly,smp,system,node,may,defined,locale,parallel,programming,languages,chapel,specific,constructs,declaring,locales

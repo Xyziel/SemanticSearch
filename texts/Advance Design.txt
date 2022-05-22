@@ -1,0 +1,2 @@
+30736272,Advance Design,https://en.wikipedia.org/wiki?curid=30736272, 
+advance,design,advance,design,computeraided,engineering,cae,software,application,developed,graitec,structural,analysis,design,reinforced,concrete,steel,timber,structures,automated,creation,design,reports,features,advance,design,offers,environment,static,dynamic,analysis,2d,3d,reinforced,concrete,steel,timber,structures,using,finite,elements,method,advance,design,part,bim,structural,graitec,advance,suite

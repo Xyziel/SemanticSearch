@@ -1,0 +1,2 @@
+38966621,Monokub,https://en.wikipedia.org/wiki?curid=38966621, 
+monokub,monokub,computer,motherboard,based,russian,elbrus,2000,computer,architecture,form,basis,monoblock,pc,office,workstation,motherboard,miniitx,formfactor,contains,single,elbrus2c,microprocessor,clock,frequency,500,mhz,memory,controller,provides,dualchannel,memory,mode,board,two,ddr2800,memory,slots,enables,16,gb,ram,memory,using,ecc,modules,also,supports,expansion,boards,using,pci,express,x16,bus,addition,onboard,gigabit,ethernet,interface,4,usb,20,rs232,interface,dvi,connector,audio,inputoutput,ports

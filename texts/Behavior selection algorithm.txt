@@ -1,0 +1,2 @@
+47893974,Behavior selection algorithm,https://en.wikipedia.org/wiki?curid=47893974, 
+behavior,selection,algorithm,artificial,intelligence,behavior,selection,algorithm,action,selection,algorithm,algorithm,selects,appropriate,behaviors,actions,one,intelligent,agents,game,artificial,intelligence,selects,behaviors,actions,one,nonplayer,characters,common,behavior,selection,algorithms,include,related,concepts,application,programming,runtime,selection,behavior,specific,method,referred,strategy,design,pattern

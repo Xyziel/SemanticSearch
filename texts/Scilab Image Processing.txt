@@ -1,0 +1,2 @@
+8271663,Scilab Image Processing,https://en.wikipedia.org/wiki?curid=8271663, 
+scilab,image,processing,sip,toolbox,processing,images,scilab,sip,meant,free,complete,useful,image,toolbox,scilab,goals,include,tasks,filtering,blurring,edge,detection,thresholding,histogram,manipulation,segmentation,mathematical,morphology,color,image,processing,though,sip,still,early,development,currently,import,output,image,files,many,formats,including,bmp,jpeg,gif,png,tiff,xpm,pcx,sip,uses,imagemagick,accomplish,sip,licensed,gpl

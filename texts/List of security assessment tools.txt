@@ -1,0 +1,2 @@
+49632961,List of security assessment tools,https://en.wikipedia.org/wiki?curid=49632961, 
+list,security,assessment,tools,list,available,software,hardware,tools,designed,particularly,suited,various,kinds,security,assessment,security,testing,operating,systems,tool,suites,several,operating,systems,tool,suites,provide,bundles,tools,useful,various,types,security,assessment

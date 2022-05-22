@@ -1,0 +1,2 @@
+19835615,Gabbay's separation theorem,https://en.wikipedia.org/wiki?curid=19835615, 
+gabbays,separation,theorem,mathematical,logic,computer,science,gabbays,separation,theorem,named,dov,gabbay,states,arbitrary,temporal,logic,formula,rewritten,logically,equivalent,past,→,future,form,ie,future,becomes,must,satisfied,form,used,execution,rules,metatem,program,set,rules

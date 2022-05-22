@@ -1,0 +1,2 @@
+40361280,Kevoree,https://en.wikipedia.org/wiki?curid=40361280, 
+kevoree,kevoree,open,source,project,aims,enabling,development,reconfigurable,distributed,systems,built,around,component,model,takes,advantage,modelsruntime,approach,provide,efficient,tools,development,live,adaptation,synchronization,distributed,software,systems,history,kevoree,project,initiated,university,rennes,irisa,inria,bretagne,atlantique,started,2010,kevoree,mature,solution,develop,distributed,software,systems

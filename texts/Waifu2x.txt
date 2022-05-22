@@ -1,0 +1,2 @@
+59729969,Waifu2x,https://en.wikipedia.org/wiki?curid=59729969, 
+waifu2x,waifu2x,image,scaling,noise,reduction,program,animestyle,art,types,photos,waifu2x,inspired,superresolution,convolutional,neural,network,srcnn,uses,nvidia,cuda,computing,although,alternative,implementations,allow,opencl,vulkan,created,etymology,waifu,japanese,pronunciation,wife,anime,slang,female,character,one,attracted,2x,means,twotimes,magnification

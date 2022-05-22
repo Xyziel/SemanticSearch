@@ -1,0 +1,2 @@
+17412117,J-Pilot,https://en.wikipedia.org/wiki?curid=17412117, 
+jpilot,jpilot,opensource,gtkbased,desktop,organizer,unixlike,systems,written,judd,montgomery,designed,work,palm,osbased,handheld,pdas,uses,pilotlink,libraries,communicate,palm,devices,released,gnu,gpl,version,2,linux,support,palm,provide,version,software,linux,operating,system,officially,support,ones,developed,third,parties,jpilot,gnomepilot

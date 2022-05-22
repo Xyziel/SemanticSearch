@@ -1,0 +1,2 @@
+5876226,IC programming,https://en.wikipedia.org/wiki?curid=5876226, 
+ic,programming,ic,programming,process,transferring,computer,program,integrated,computer,circuit,older,types,ic,including,proms,eproms,early,programmable,logic,typically,programmed,parallel,busses,used,many,devices,pins,basically,required,inserting,device,separate,programmer,modern,ics,typically,programmed,circuit,though,serial,protocol,sometimes,jtag,sometimes,something,manufacturer,specific,particularly,fpgas,even,load,data,serially,separate,flash,prom,chip,every,startup

@@ -1,0 +1,2 @@
+36831006,Hindsight optimization,https://en.wikipedia.org/wiki?curid=36831006, 
+hindsight,optimization,hindsight,optimisation,hop,computer,science,technique,used,artificial,intelligence,analysis,actions,stochastic,results,hop,used,combination,deterministic,planner,creating,sample,results,possible,actions,given,state,ie,determinising,actions,using,deterministic,planner,analyse,sample,results,hop,allows,estimate,actual,action

@@ -1,0 +1,2 @@
+69401113,LeoCAD,https://en.wikipedia.org/wiki?curid=69401113, 
+leocad,leocad,free,opensource,3d,cad,program,creating,virtual,lego,models,using,parts,ldraw,library,developed,leonardo,zide,1997

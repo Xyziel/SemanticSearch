@@ -1,0 +1,2 @@
+50005025,Privacy platform,https://en.wikipedia.org/wiki?curid=50005025, 
+privacy,platform,privacy,platform,piece,software,system,designed,retain,privacy,users,operators

@@ -1,0 +1,2 @@
+60078637,Reactive synthesis,https://en.wikipedia.org/wiki?curid=60078637, 
+reactive,synthesis,reactive,synthesis,temporal,synthesis,field,computer,science,studies,automatic,generation,state,machines,eg,moore,machines,highlevel,specifications,eg,formulas,linear,temporal,logic,reactivity,highlights,fact,synthesized,machine,interacts,user,reading,input,producing,output,never,stops,operation,synthesis,problem,introduced,alonzo,church,1962,specifications,formulas,monadic,secondorder,logic,state,machines,form,digital,circuits

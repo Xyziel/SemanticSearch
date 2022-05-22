@@ -1,0 +1,2 @@
+1657766,RAM image,https://en.wikipedia.org/wiki?curid=1657766, 
+ram,image,ram,image,sequence,machine,code,instructions,associated,data,kept,permanently,nonvolatile,rom,memory,embedded,system,copied,volatile,ram,bootstrap,loader,typically,ram,image,loaded,ram,system,switched,contains,secondlevel,bootstrap,loader,basic,hardware,drivers,enabling,unit,function,desired,else,sophisticated,software,loaded,system

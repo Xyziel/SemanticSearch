@@ -1,0 +1,2 @@
+2710755,Fuzzy agent,https://en.wikipedia.org/wiki?curid=2710755, 
+fuzzy,agent,computer,science,fuzzy,agent,software,agent,implements,fuzzy,logic,software,entity,interacts,environment,adaptive,rulebase,therefore,considered,type,intelligent,agent

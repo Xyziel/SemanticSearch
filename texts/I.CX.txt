@@ -1,0 +1,2 @@
+44992633,I.CX,https://en.wikipedia.org/wiki?curid=44992633, 
+icx,icx,messaging,file,sharing,web,application,providing,endtoend,encryption,without,download,installation,developed,toronto,firm,everybit,relies,opensource,everybitjs,framework,encryption,done,clientside,users,web,browser,files,messages,stored,sent,using,icx,protected,256bit,aes,encryption

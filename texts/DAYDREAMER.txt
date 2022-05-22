@@ -1,0 +1,2 @@
+36298401,DAYDREAMER,https://en.wikipedia.org/wiki?curid=36298401, 
+daydreamer,daydreamer,goalbased,agent,cognitive,architecture,developed,university,california,los,angeles,erik,mueller,models,human,stream,thought,triggering,direction,emotions,human,daydreaming,architecture,implemented,12000,lines,lisp,code,history,daydreamer,begun,erik,mueller,1983,studying,michael,g,dyer,ucla,computer,science,department,completed,1987,followed,thoughttreasure,program,started,1993

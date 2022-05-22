@@ -1,0 +1,2 @@
+50952653,Scalasca,https://en.wikipedia.org/wiki?curid=50952653, 
+scalasca,scalasca,free,opensource,software,measurement,analysis,optimization,parallel,program,performance,licensed,bsdstyle,license,scalasca,mostly,used,profiling,scientific,engineering,applications,using,openmp,andor,mpi,supports,runtime,analysis,supercomputers,application,analysed,needs,first,instrumented,mpi,usage,instrumented,simply,linking,application,measuring,library,openmp,usage,instrumented,recompiling,source,using,scalascas,modified,compiler
